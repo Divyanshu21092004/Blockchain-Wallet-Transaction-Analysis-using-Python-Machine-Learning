@@ -28,7 +28,7 @@ From each wallet's transaction history, the following features were engineered:
 - Diversity in actions (`Deposit`, `Withdraw`, etc.)
 - Time-based behavior (e.g., avg time between txns)
 
- 🤖 ML Approach
+  ML Approach
  
 - Unsupervised Learning (KMeans Clustering)** was chosen due to the absence of labeled data. It enables natural grouping of users based on behavior without predefined categories.
 - Used **KMeans Clustering** to segment wallets based on transactional behavior.
